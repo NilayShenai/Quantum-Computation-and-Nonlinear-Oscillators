@@ -2,7 +2,7 @@
 
 This repository contains code and results for simulating the classical and quantum dynamics of nonlinear oscillators, specifically the Duffing oscillator model. The project explores the behavior of quantum states—such as coherent and Schrödinger cat states—under a nonlinear Hamiltonian, visualized using tools like Wigner functions.
 
-View the full report on arXiv: [https://arxiv.org/abs/submit/6399119](https://arxiv.org/abs/submit/6399119/view)
+View the full report [here](https://github.com/NilayShenai/Quantum-Computation-and-Nonlinear-Oscillators/blob/main/paper.pdf)
 
 ## Overview
 
