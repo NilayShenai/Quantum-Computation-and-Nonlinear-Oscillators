@@ -22,8 +22,8 @@ The simulation and analysis in this project cover:
 
 ## Files Included
 
-- `duffing_oscillator_simulation.ipynb`: Jupyter notebook containing all code and plots
-- `images/`: Directory with key result visualizations
+- `osc.ipynb`: Jupyter notebook containing all code and plots
+- `tex/`: Directory containing main.tex and key result visualizations
 - `paper.pdf`: IEEE-style report summarizing the work
 - `README.md`: This file
 
